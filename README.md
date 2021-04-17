@@ -1,4 +1,4 @@
-# gorousel
+# Gorousel
 
 A stupidly simple wallpaper carousel program.  
 Just build the binary and then add a cronjob to run on every login.  
