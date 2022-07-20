@@ -3,5 +3,5 @@ package main
 import "github.com/reujab/wallpaper"
 
 func main() {
-	wallpaper.SetFromURL("https://source.unsplash.com/collection/317099/1920x1080")
+	wallpaper.SetFromURL("https://bing.biturl.top/?resolution=3840&format=image&index=random&mkt=random")
 }
