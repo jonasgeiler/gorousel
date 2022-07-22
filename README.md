@@ -29,5 +29,5 @@ go build -ldflags "-H windowsgui -s -w"
 ## How run on each boot in Windows
 
 I prefer letting gorousel update my wallpaper after each startup.  
-To do this, open the **Registry Editor** and navigate to `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`.  
+To do this, open the _Registry Editor_ and navigate to `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`.  
 There, all you have to do is add a new _String Value_ with the name `Gorousel` and the path to the gorousel executable as value.
